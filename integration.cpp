@@ -4,7 +4,7 @@
 #define s1 1
 #define s2 2
 #define s3 3
-
+//test code
 
 int input_array[8] = [pin1,pin2,.....] 
 bool board[8][8];
